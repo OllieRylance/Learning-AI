@@ -9,3 +9,4 @@ ANN Example 2
 This example is the same as example 1 but attempts to add positive reinforcement as well. This code does not produce a solution.
 
 ANN Example 3
+This is an example of only negative reinforcement being applied to a hard-coded training set with three predictors.
