@@ -10,3 +10,7 @@ This example is the same as example 1 but attempts to add positive reinforcement
 
 ANN Example 3
 This is an example of only negative reinforcement being applied to a hard-coded training set with three predictors.
+
+ANN Example 4
+This example is the same as example 1 but, instead of using standard negative reinforcement perceptron learning, the Adaline LMSE algorithm is used. Expected results are roughly: -2.1891, 0.2175, and 0.3673.
+This example allows for the greek symbol, ro, from the Adaline algorithm as well as the range in which initial weights can be chosen from to be tweaked with before running the algorithm.
